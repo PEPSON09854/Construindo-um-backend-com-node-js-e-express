@@ -8,6 +8,6 @@
 
 ## Introdução
 
-Nesse repositório contém o back-end de um projeto de uma rede social em node-js e express utilizando mongoose, 
+Nesse repositório contém o back-end de um projeto de uma rede social em Node-js e Express utilizando mongoose, 
 em uma arquitetura MVC foi construído dois models de schemas para criação de Collections no banco, um para usuários e o outro para fotos,
 foram construídos funções de middlewares para as rotas da api, fazendo autenticação de usuários, validações do corpo da requisição e teste dos end-points para enviar e recuperar dados do banco pelos métodos HTTP do express, nos controlles foram criadas as funções de cadastro e login do sistema para os usuários e fotos, deixando tudo pronto para uma integração com o front-end.
