@@ -6,7 +6,7 @@
   <img aling='center' alt= 'EXPRESS' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'/>
 </div><br>
 
-#
+## Introdução
 
 Nesse repositório contém o back-end de um projeto de uma rede social em node-js e express utilizando mongoose, 
 em uma arquitetura MVC foi construído dois models de schemas para criação de Collections no banco, um para usuários e o outro para fotos,
